@@ -1,6 +1,7 @@
 type: InlineMultiQuestion
 id: inlinemulti
 value: 10
+difficulty: 5
 prompt: |
 
     # An InlineMultiQuestion example

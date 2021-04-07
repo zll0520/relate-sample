@@ -1,6 +1,7 @@
 type: HumanGradedTextQuestion
 id: hgtext
 value: 5
+difficulty: 2
 widget: "editor:yaml"
 validators:
 

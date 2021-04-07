@@ -4,6 +4,7 @@ access_rules:
     add_permissions:
         - change_answer
 value: 4
+difficulty: 8
 human_feedback_percentage: 50
 timeout: 10
 data_files:

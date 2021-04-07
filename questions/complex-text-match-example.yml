@@ -1,6 +1,7 @@
 type: TextQuestion
 id: eigvec
 value: 2
+difficulty: 5
 prompt: |
 
     # What's an eigenvector?

@@ -4,6 +4,7 @@ access_rules:
     add_permissions:
         - change_answer
 value: 1
+difficulty: 7
 timeout: 10
 prompt: |
 

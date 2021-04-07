@@ -1,5 +1,6 @@
 type: TextQuestion
 id: quarter
+difficulty: 4
 is_optional_page: True
 prompt: |
 

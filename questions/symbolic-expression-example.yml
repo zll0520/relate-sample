@@ -1,6 +1,7 @@
 type: TextQuestion
 id: neumann
 value: 5
+difficulty: 10
 prompt: |
 
   # Neumann series

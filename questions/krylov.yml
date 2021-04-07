@@ -1,6 +1,7 @@
 type: ChoiceQuestion
 id: krylov
 value: 2
+difficulty: 4
 prompt: |
 
     # Krylov-space methods

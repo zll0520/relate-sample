@@ -1,6 +1,7 @@
 type: MultipleChoiceQuestion
 id: matrix_props
 value: 1
+difficulty: 6
 shuffle: False
 credit_mode: proportional
 prompt: |

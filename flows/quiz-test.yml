@@ -68,6 +68,7 @@ groups:
         type: TextQuestion
         id: half
         value: 5
+        difficulty: 1
         prompt: |
 
           # A half
@@ -90,6 +91,7 @@ groups:
         id: ice_cream_toppings
         credit_mode: exact
         value: 1
+        difficulty: 2
         shuffle: False
         prompt: |
 
@@ -115,6 +117,7 @@ groups:
         type: SurveyTextQuestion
         id: fear
         widget: textarea
+        difficulty: 9
         prompt: |
 
             # Psychology Survey

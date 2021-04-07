@@ -1,5 +1,6 @@
 type: SurveyChoiceQuestion
 id: age_group
+difficulty: 1
 prompt: |
 
     # Age

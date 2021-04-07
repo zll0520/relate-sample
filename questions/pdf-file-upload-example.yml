@@ -4,6 +4,7 @@ access_rules:
     add_permissions:
         - change_answer
 value: 5
+difficulty: 10
 maximum_megabytes: 0.5
 prompt: |
 

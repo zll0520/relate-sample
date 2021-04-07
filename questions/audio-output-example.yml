@@ -4,6 +4,7 @@ access_rules:
     add_permissions:
     -  change_answer
 timeout: 5
+difficulty: 2
 prompt: |
 
     # Audio

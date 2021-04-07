@@ -1,6 +1,7 @@
 type: ChoiceQuestion
 id: lsq
 value: 1
+difficulty: 2
 shuffle: False
 prompt: |
 
