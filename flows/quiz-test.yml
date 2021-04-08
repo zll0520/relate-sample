@@ -130,7 +130,7 @@ groups:
 
 -
     id: quiz_tail
-    shuffle: True
+    shuffle: False
     pages:
 
     -
