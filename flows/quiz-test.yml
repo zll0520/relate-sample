@@ -51,7 +51,7 @@ groups:
     -
         type: Page
         id: welcome
-        difficult: 0
+        difficulty: 0
         content: |
 
             # Welcome to the test quiz for RELATE!
