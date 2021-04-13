@@ -127,12 +127,6 @@ groups:
 
     -
         {{ indented_include("questions/survey-age-question.yml", 8) }}
-
--
-    id: quiz_tail
-    shuffle: False
-    pages:
-
     -
         {{ indented_include("questions/complex-text-match-example.yml", 8) }}
     -
